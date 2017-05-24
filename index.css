@@ -1,0 +1,73 @@
+html,
+body {
+	height: 100%;
+}
+
+.container-fluid {
+	text-align: center;
+	background: url("https://images.freecreatives.com/wp-content/uploads/2016/02/Black-Wood-high-Quality-Background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #fff;
+	height: 100%;
+}
+
+.btn {
+	color: #fff;
+	background: #000;
+	border: 0.1em solid #fff;
+	border-radius: 0.5em;
+	cursor: pointer;
+}
+
+.btn:hover {
+	background: #444;
+}
+
+#tweet {
+	background: #1da1f2;
+}
+
+#tweet a {
+	text-decoration: none;
+	color: #fff;
+}
+
+#tweet:hover {
+	background: #61bcf6;
+}
+
+.quotes {
+	margin-right: auto;
+	margin-left: auto;
+	border: 0.2em solid #fff;
+	width: 33%;
+	border-radius: 0.5em;
+	height: 30%;
+	padding: 20px;
+	position: relative;
+}
+
+.quote {
+	font-size: 30px;
+	padding: auto;
+	position: relative;
+	margin: auto;
+	width: 50%;
+	height: 20%;
+}
+
+.author {
+	font-style: italic;
+	font-size: 19px;
+	position: relative;
+	margin: auto;
+	padding: auto;
+	width: 25%;
+	height: 30%;
+}
+
+.footer a {
+	color: #fff;
+	text-decoration: none;
+}
