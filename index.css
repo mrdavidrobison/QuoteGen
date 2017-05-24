@@ -46,7 +46,7 @@ body {
 	width: 50%;
 	border-radius: 0.5em;
 	height: 40%;
-	padding: 20px;
+	padding: auto;
 	position: relative;
 }
 
