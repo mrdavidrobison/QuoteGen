@@ -19,6 +19,7 @@ body {
 	border: 0.1em solid #fff;
 	border-radius: 0.5em;
 	cursor: pointer;
+	padding: 1em;
 }
 
 .btn:hover {
@@ -44,7 +45,7 @@ body {
 	border: 0.2em solid #fff;
 	width: 50%;
 	border-radius: 0.5em;
-	height: 50%;
+	height: 40%;
 	padding: 20px;
 	position: relative;
 }
