@@ -1,3 +1,3 @@
 # Random Quote Generator
 
-1. Open index.html with Chrome Browser.
+Generates random quotes that you can tweet on twitter.
